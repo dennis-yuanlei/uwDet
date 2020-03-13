@@ -16,6 +16,6 @@
 
 QQ群信息：
 
-1. 斩风的mmd代码https://github.com/zhengye1995/underwater-objection-detection
+1. 斩风用mmd代码https://github.com/zhengye1995/underwater-objection-detection,baseline为cascade/resNext101，测试 mAP=48.7。但他好像用了一些特别的训练方法，htc是啥？？？，有时间看一看
 2. urcp数据集
 3. DCN是啥？
